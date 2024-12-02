@@ -25,6 +25,9 @@ def app():
     st.title('Filtering Fraudulent Transactions')
     st.write('Filtering out fraudulent transactions using a machine learning model')
     
+    # Load the model
+    model_path = 'model.pkl'
+    model = load_model(model_path)
    
     # File uploader for the input 
     uploaded_file = st.file_uploader('Upload your data:', type=['csv', 'xlsx'])
