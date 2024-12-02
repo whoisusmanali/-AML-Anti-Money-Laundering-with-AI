@@ -67,3 +67,21 @@ streamlit run app.py
 ```
 
 ---
+
+## **Requirements**  
+- Python 3.9+
+- Libraries:  
+  - `pandas`  
+  - `numpy`  
+  - `scikit-learn`  
+  - `xgboost`  
+  - `matplotlib`  
+  - `seaborn`  
+  - `streamlit`  
+
+To install dependencies:  
+```bash
+pip install -r requirements.txt
+```
+
+---
