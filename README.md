@@ -85,3 +85,24 @@ pip install -r requirements.txt
 ```
 
 ---
+
+## **Usage**  
+1. Clone the repository.  
+   ```bash
+   git clone https://github.com/username/aml-detection.git
+   cd aml-detection
+   ```
+2. Run the Streamlit app.  
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
+## **Future Enhancements**  
+- Incorporate real-time transaction monitoring with APIs.
+- Add advanced visualizations like network graphs for transaction flow.
+- Explore deep learning techniques for better accuracy.
+- Integrate with existing banking systems for seamless deployment.
+
+---
