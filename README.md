@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ## **Usage**  
 1. Clone the repository.  
    ```bash
-   git clone https://github.com/username/aml-detection.git
+   git clone https://github.com/whoisusmanali/AML-Anti-Money-Laundering-with-AI.git
    cd aml-detection
    ```
 2. Run the Streamlit app.  
