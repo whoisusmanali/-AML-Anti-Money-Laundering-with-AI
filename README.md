@@ -98,3 +98,11 @@ pip install -r requirements.txt
    ```
 
 ---
+
+## **Future Enhancements**  
+- Incorporate real-time transaction monitoring with APIs.
+- Add advanced visualizations like network graphs for transaction flow.
+- Explore deep learning techniques for better accuracy.
+- Integrate with existing banking systems for seamless deployment.
+
+---
