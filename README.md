@@ -1,7 +1,3 @@
-Below is a detailed `README.md` template for your anti-money laundering (AML) project in the banking industry:  
-
----
-
 # **Anti-Money Laundering Detection Using Machine Learning**
 
 ## **Overview**  
